@@ -3,10 +3,6 @@
 ### Hugging Face Model
 Link to hugging face model : [airbnb-reviews-helpfulness-classifier-roberta-base](https://huggingface.co/lihuicham/airbnb-reviews-helpfulness-classifier-roberta-base)
 
-### Team Members (S001 - Synthetic Expert Team E) :
-
-Li Hui Cham, Isaac Sparrow, Christopher Arraya, Nicholas Wong, Lei Zhang, Leonard Yang
-
 ### Description
 This model is an AirBnB reviews helpfulness classifier. It can predict the helpfulness, from most helpful (A) to least helpful (C) of the reviews on AirBnB website.
 
