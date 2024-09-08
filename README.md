@@ -42,7 +42,7 @@ This fine-tuned roberta-based model is a text classifier to predict the helpfuln
 <img width="833" alt="image" src="https://github.com/lihuicham/airbnb-helpfulness-classifier/assets/99931775/875343ea-e9c5-46f0-8332-d545b87d0fa4">
 <img width="835" alt="image" src="https://github.com/lihuicham/airbnb-helpfulness-classifier/assets/99931775/dc423b32-77c6-43f7-9de5-58ed6e95bffd">
 <img width="838" alt="image" src="https://github.com/lihuicham/airbnb-helpfulness-classifier/assets/99931775/5e7bf728-04ec-4bbd-a3a8-cdd6442407d3">
-<img width="609" alt="image" src="https://github.com/lihuicham/airbnb-helpfulness-classifier/assets/99931775/939819f6-2693-44b0-828e-82affc72ae3d">{=comment}
+# <img width="609" alt="image" src="https://github.com/lihuicham/airbnb-helpfulness-classifier/assets/99931775/939819f6-2693-44b0-828e-82affc72ae3d">{=comment}
 
 Collaborators:
 Li Hui Cham, Nicholas Wong, Isaac Sparrow, Christopher Arraya, Lei Zhang, Leonard Yang
